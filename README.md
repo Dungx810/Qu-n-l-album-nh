@@ -1,2 +1,1 @@
-# Qu-n-l-album-nh
-Đề tài bài tập lớn môn cấu trúc dữ liệu và giải thuật: Quản lý album ảnh
+https://drive.google.com/drive/folders/1S165hMwV5NTpNCxono8SV1gmHBVhUgui?usp=drive_link
